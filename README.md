@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @larrozavanesa3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-👋 ¡Hola! Soy @larrozavanesa3
+
+👀 Estoy interesada en utilizar la tecnología para resolver problemas del mundo real de manera eficiente y creativa.
+
+🌱 Actualmente estoy aprendiendo HTML, CSS, JavaScript y desarrollo front-end, además de profundizar mi conocimiento en computación en la nube.
+
+💞️ Estoy buscando colaborar en proyectos de código abierto que tengan un impacto significativo.
+
+📫 Cómo contactarme: Envíame un mensaje aquí en GitHub o por correo electrónico a larrozavanesa3@gmail.com.
 
 <!---
-larrozavanesa3/larrozavanesa3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+modificado por chatgpt
 --->
